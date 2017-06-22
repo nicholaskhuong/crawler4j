@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Create Class" parallel="none">
+	<listeners>
+        <listener class-name="com.freakick.utilities.Reporter"></listener>
+	</listeners>
+	
+  	<test name="CreateClass">
+		<classes>
+				<class name="com.freakick.dashboard.CreateClass" />
+		</classes>
+	</test>	
+	 <!-- Test -->
+</suite> <!-- Suite -->
