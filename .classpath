@@ -17,5 +17,9 @@
 	<classpathentry kind="lib" path="Lib/testng.jar"/>
 	<classpathentry kind="lib" path="Lib/guice-3.0.jar"/>
 	<classpathentry kind="lib" path="Lib/spring-core-4.2.2.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-lang3-3.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
